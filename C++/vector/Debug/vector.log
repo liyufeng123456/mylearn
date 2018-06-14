@@ -1,0 +1,4 @@
+﻿  vector.cpp
+d:\program files\vector\vector\vector.cpp(196): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vector.vcxproj -> D:\Program Files\vector\Debug\vector.exe
+  vector.vcxproj -> D:\Program Files\vector\Debug\vector.pdb (Full PDB)
